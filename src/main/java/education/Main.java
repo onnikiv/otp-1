@@ -1,10 +1,10 @@
-package com.example;
+package education;
 
 import java.util.Scanner;
 
-import com.example.educations.Batchelors;
-import com.example.educations.Doctors;
-import com.example.educations.Masters;
+import education.educations.Batchelors;
+import education.educations.Doctors;
+import education.educations.Masters;
 
 public class Main {
 

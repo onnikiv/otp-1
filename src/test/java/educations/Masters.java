@@ -1,6 +1,6 @@
 package educations;
 
-import com.example.Education;
+import education.Education;
 
 public class Masters implements Education {
 

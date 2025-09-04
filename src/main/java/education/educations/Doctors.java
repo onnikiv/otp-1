@@ -1,6 +1,6 @@
-package com.example.educations;
+package education.educations;
 
-import com.example.Education;
+import education.Education;
 
 public class Doctors implements Education {
 
