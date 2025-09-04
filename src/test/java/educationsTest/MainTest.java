@@ -1,11 +1,12 @@
+package educationsTest;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import educations.Batchelors;
-import educations.Doctors;
-import educations.Masters;
+import education.educations.Batchelors;
+import education.educations.Doctors;
+import education.educations.Masters;
 
 public class MainTest {
 

@@ -1,3 +1,4 @@
+package educationsTest;
 
 public interface Education {
 

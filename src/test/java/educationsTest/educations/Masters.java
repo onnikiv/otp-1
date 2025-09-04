@@ -1,4 +1,4 @@
-package educations;
+package educationsTest.educations;
 
 import education.Education;
 

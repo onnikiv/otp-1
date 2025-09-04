@@ -1,13 +1,13 @@
-package educations;
+package educationsTest.educations;
 
 import education.Education;
 
-public class Doctors implements Education {
+public class Batchelors implements Education {
 
     private final int educationDuration;
 
-    public Doctors() {
-        this.educationDuration = 7;
+    public Batchelors() {
+        this.educationDuration = 3;
     }
 
     @Override
